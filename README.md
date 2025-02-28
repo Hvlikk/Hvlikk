@@ -11,6 +11,8 @@ Cześć! Jestem Miłosz, jestem studentem trzeciego roku informatyki technicznej
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
-# 📊 Statystyki GitHub
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hvlikk&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hvlikk&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvlikk&layout=compact&theme=tokyonight)
 
