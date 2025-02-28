@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Cześć! Jestem Miłosz, jestem studentem trzeciego roku informatyki technicznej na Politechnice Wrocławskiej.
+Hi, I'm Miłosz and I'm third year student at Wrocław University of Science and Technology.  
 
 # 🚀 Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
