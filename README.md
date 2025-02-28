@@ -1,4 +1,4 @@
-# 💻 About Me
+# 👋 Hi there!
 Cześć! Jestem Miłosz, jestem studentem trzeciego roku informatyki technicznej na Politechnice Wrocławskiej.
 
 # 🚀 Stack
@@ -11,8 +11,8 @@ Cześć! Jestem Miłosz, jestem studentem trzeciego roku informatyki technicznej
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hvlikk&show_icons=true&theme=tokyonight&count_private=true)
+## ☎️ Contact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvlikk&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mi%C5%82osz-halicki-b74a2a352/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehalickimilosz@gmail.com)
 
